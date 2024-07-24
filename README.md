@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/DashfromDunder/main?urlpath=%2Flab%2Ftree)
-https://github.com/fomightez/DashfromDunder
+
 *tl;dr:*  
 Click any `launch binder` badge on this page to get a session all set to step through running a Jupyter notebook demonstrating the script inside your browser with no installation needed. Or click [here](https://mybinder.org/v2/gh/fomightez/DashfromDunder/main?urlpath=%2Flab%2Ftree).
 
