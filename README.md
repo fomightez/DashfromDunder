@@ -1,3 +1,15 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/DashfromDunder/main?urlpath=%2Flab%2Ftree)
+https://github.com/fomightez/DashfromDunder
+*tl;dr:*  
+Click any `launch binder` badge on this page to get a session all set to step through running a Jupyter notebook demonstrating the script inside your browser with no installation needed. Or click [here](https://mybinder.org/v2/gh/fomightez/DashfromDunder/main?urlpath=%2Flab%2Ftree).
+
+---------------
+Attribution
+----------
+This fork of [the official repository for 'Python data science and machine learning from Ted Petrou with Dunder Data'](https://github.com/DunderData/Tutorials) was set up to see if I can change a few things to restore it working with the MyBinder system to see if Plotly Dash app it has maybe can be made to continue working via MyBinder. (This is the best/only[?] example I found so far of using Dash with MyBinder?!?!)  
+Please see [the official repository](https://github.com/DunderData/Tutorials) for more information about the tutorials.  
+
+
 # Tutorials
 
 This repository contains various tutorials on python, data science, and machine learning within Jupyter Notebooks written by Ted Petrou with [Dunder Data][0].
