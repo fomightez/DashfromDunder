@@ -18,7 +18,8 @@ This repository contains various tutorials on python, data science, and machine 
 
 Get started working on these tutorials immediately by launching a remote Jupyter Notebook by clicking the following link courtesy of Binder.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DunderData/Tutorials/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/DashfromDunder/main?urlpath=%2Flab%2Ftree)
+
 
 ## Become an Expert
 
