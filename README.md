@@ -1,7 +1,7 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/DashfromDunder/master?urlpath=%2Flab%2Ftree%2FVisualization%20Tutorials/Interactive%20Analytics%20Dashboard%20with%20Dash%20by%20Plotly/Minimal_Example_of_Dash_App_on_MyBinder_July2024.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/DashfromDunder/master?urlpath=%2Flab%2Ftree%2FVisualization%20Tutorials%2FInteractive%20Analytics%20Dashboard%20with%20Dash%20by%20Plotly%2FMinimal_Example_of_Dash_App_on_MyBinder_July2024.ipynb)
 
 *tl;dr:*  
-Click any `launch binder` badge on this page to get a session all set to step through running a Jupyter notebook demonstrating the script inside your browser with no installation needed. Or click [here](https://mybinder.org/v2/gh/fomightez/DashfromDunder/master?urlpath=%2Flab%2Ftree%2FVisualization%20Tutorials/Interactive%20Analytics%20Dashboard%20with%20Dash%20by%20Plotly/Minimal_Example_of_Dash_App_on_MyBinder_July2024.ipynb).
+Click any `launch binder` badge on this page to get a session all set to step through running a Jupyter notebook demonstrating the script inside your browser with no installation needed. Or click [here](https://mybinder.org/v2/gh/fomightez/DashfromDunder/master?urlpath=%2Flab%2Ftree%2FVisualization%20Tutorials%2FInteractive%20Analytics%20Dashboard%20with%20Dash%20by%20Plotly%2FMinimal_Example_of_Dash_App_on_MyBinder_July2024.ipynb).
 
 ---------------
 Attribution
@@ -18,7 +18,7 @@ This repository contains various tutorials on python, data science, and machine 
 
 Get started working on these tutorials immediately by launching a remote Jupyter Notebook by clicking the following link courtesy of Binder.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/DashfromDunder/master?urlpath=%2Flab%2Ftree%2FVisualization%20Tutorials/Interactive%20Analytics%20Dashboard%20with%20Dash%20by%20Plotly/Minimal_Example_of_Dash_App_on_MyBinder_July2024.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fomightez/DashfromDunder/master?urlpath=%2Flab%2Ftree%2FVisualization%20Tutorials%2FInteractive%20Analytics%20Dashboard%20with%20Dash%20by%20Plotly%2FMinimal_Example_of_Dash_App_on_MyBinder_July2024.ipynb)
 
 ## Become an Expert
 
